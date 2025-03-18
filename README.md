@@ -21,8 +21,3 @@ A simple Java-based application that manages student enrollment, course registra
 ## File Structure
 - **StudentDatabaseApp.java** - Main application entry point.
 - **Student.java** - Defines student properties, enrollment process, and payment system.
-
-## How to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/darrensan8/StudentDatabaseApp.git
